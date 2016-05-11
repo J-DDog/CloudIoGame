@@ -1,0 +1,9 @@
+c:\users\theho\onedrive\documents\visual studio 2015\Projects\CloudIoGame\CloudIoGame\bin\DesktopGL\x86\Debug\OpenTK.dll.config
+c:\users\theho\onedrive\documents\visual studio 2015\Projects\CloudIoGame\CloudIoGame\bin\DesktopGL\x86\Debug\CloudIoGame.exe
+c:\users\theho\onedrive\documents\visual studio 2015\Projects\CloudIoGame\CloudIoGame\bin\DesktopGL\x86\Debug\CloudIoGame.pdb
+c:\users\theho\onedrive\documents\visual studio 2015\Projects\CloudIoGame\CloudIoGame\bin\DesktopGL\x86\Debug\MonoGame.Framework.dll
+c:\users\theho\onedrive\documents\visual studio 2015\Projects\CloudIoGame\CloudIoGame\bin\DesktopGL\x86\Debug\NVorbis.dll
+c:\users\theho\onedrive\documents\visual studio 2015\Projects\CloudIoGame\CloudIoGame\bin\DesktopGL\x86\Debug\OpenTK.dll
+c:\users\theho\onedrive\documents\visual studio 2015\Projects\CloudIoGame\CloudIoGame\obj\x86\Debug\CloudIoGame.csprojResolveAssemblyReference.cache
+c:\users\theho\onedrive\documents\visual studio 2015\Projects\CloudIoGame\CloudIoGame\obj\x86\Debug\CloudIoGame.exe
+c:\users\theho\onedrive\documents\visual studio 2015\Projects\CloudIoGame\CloudIoGame\obj\x86\Debug\CloudIoGame.pdb
